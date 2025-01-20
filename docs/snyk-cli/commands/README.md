@@ -64,6 +64,10 @@ Display the `.snyk` policy for a package.
 
 Modify the `.snyk` policy to ignore stated issues.
 
+### [`fossid ignore`](ignore.md)
+
+Modify the `.snyk` policy to ignore stated issues.
+
 ## Debug
 
 Use `-d` option to output the debug logs.
